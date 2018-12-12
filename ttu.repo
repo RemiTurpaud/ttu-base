@@ -1,0 +1,6 @@
+[ttu-foundation]
+name=TTU Foundation i386-x8664
+baseurl=file:///tmp/TeradataToolsAndUtilitiesBase/Linux/i386-x8664
+enabled=1
+gpgcheck=1
+gpgkey=https://access.teradata.com/resources/html/RPM-GPG-KEY-teradata
