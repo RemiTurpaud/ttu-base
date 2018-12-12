@@ -1,6 +1,12 @@
 # Teradata Tools & Utilities Docker image
 Docker image containing the essential Teradata Tools and Utilities as well as Python and the [Teradata SQL Driver for Python](https://pypi.org/project/teradatasql/).
 
+Includes:
+* bteq
+* tptbase
+* fastload, fastexport, mload
+*  Python 3.6 + teradatasql
+
 ## Image build
 * Clone or Download this repository.
 * Download the [Teradata Tools and Utilities - Linux Installation Packag](http://downloads.teradata.com/download/tools/teradata-tools-and-utilities-linux-installation-package-0) (you will need to register and accept the licence terms). And place the tar.gz file in this directory.
